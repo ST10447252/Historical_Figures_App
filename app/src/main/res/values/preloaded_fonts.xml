@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/audiowide</item>
+        <item>@font/bangers</item>
+        <item>@font/blinker_light</item>
+        <item>@font/days_one</item>
+        <item>@font/lato_thin</item>
+        <item>@font/viga</item>
+        <item>@font/work_sans_medium</item>
+        <item>@font/work_sans_thin</item>
+    </array>
+</resources>
